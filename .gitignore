@@ -1,5 +1,12 @@
-oldweather-react-vis-app/node_modules
-oldweather-react-vis-app/dist
+# Data folders
+raw_data/
+clean_data/
+
+# React / Vite
+oldweather-react-vis-app/node_modules/
+oldweather-react-vis-app/dist/
 oldweather-react-vis-app/.env
+oldweather-react-vis-app/.vite/
+
+# Mac/system
 .DS_Store
-.vite
