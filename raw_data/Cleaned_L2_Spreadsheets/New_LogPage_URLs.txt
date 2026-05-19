@@ -1,0 +1,6 @@
+Note:
+
+The National Archives and Records Administration has moved all their log page images to the cloud. All the old log page URLs have been updated with the new ones. The old URLs had a format like:
+https://catalog.archives.gov/OpaAPI/media/7284555/content/arcmedia/dc-metro/rg-026/585454-noaa/159a/thetis/vol600/26-159A-thetis-vol600_024.jpg
+The new URLs have a format like:
+https://s3.amazonaws.com/NARAprodstorage/opastorage/live/55/2845/7284555/content/arcmedia/dc-metro/rg-026/585454-noaa/159a/thetis/vol600/26-159A-thetis-vol600_158.jpg

@@ -1,0 +1,586 @@
+YYYYMMDD	Hour	Lat	Long	Course	PL	Distance	Ice_Log	URL_W	Url_E	Note	Ice_1	Ice_2	Orig Lat	Orig Lon	Orig Course	Baro	Attd	Dry	Wet	Water	Ships
+1944-06-05	12	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0012.jpg		Brgs: Palisades 377, Zeto Pt 32, Gannet Rock 219, Nashville, 260, Buoy 121o5'T.			51.88	-176.59		30.25	40	40	38		
+1944-06-05	13	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0012.jpg					51.88	-176.59		30.26	48	48	46		
+1944-06-05	14	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0012.jpg					51.88	-176.59		30.26	48	48	46		
+1944-06-05	15	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0012.jpg					51.88	-176.59		30.26	48	48	46		
+1944-06-05	16	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0012.jpg					51.88	-176.59		30.26	48	48	46		
+1944-06-05	17	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0012.jpg					51.88	-176.59		30.28	49	49	47		
+1944-06-05	18	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0012.jpg					51.88	-176.59		30.28	48	48	47		
+1944-06-05	19	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0012.jpg					51.88	-176.59		30.28	51	51	48		
+1944-06-05	20	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0012.jpg					51.88	-176.59		30.28	48	48	45		
+1944-06-05	21	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0012.jpg		2100: underway			51.88	-176.59		30.28	47	47	44		
+1944-06-05	22	51.98	-176.42	40		8.6		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0012.jpg		2210: cc 339T. cc 355T			51.98	-176.42	40	30.29	44	44	42	42	
+1944-06-05	23	52.17	-176.43	355		12		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0012.jpg					52.17	-176.43	355	30.3	41	41	40	42	
+1944-06-05	24	52.36	-176.44	355		12.2		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0012.jpg					52.36	-176.44	355	30.3	40	40	39	42	
+1944-06-06	1	52.54	-176.45	355		12.1		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0014.jpg	 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0015.jpg				52.54	-176.45	355	30.33	40	40	39	42	
+1944-06-06	2	52.73	-176.46	355		12.1		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0014.jpg		0215: cc 275			52.73	-176.46	355	30.33	40	40	39	42	
+1944-06-06	3	52.74	-176.77	275		12.1		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0014.jpg					52.74	-176.77	275	30.33	40	40	39	42	
+1944-06-06	4	52.74	-177.08	275		12.1		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0014.jpg					52.74	-177.08	275	30.33	41	41	40	42	
+1944-06-06	5	52.75	-177.39	275		12.1		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0014.jpg					52.75	-177.39	275	30.32	41	41	40	42	
+1944-06-06	6	52.76	-177.7	275		12.1		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0014.jpg					52.76	-177.7	275	30.32	41	41	40	42	
+1944-06-06	7	52.76	-178.02	275		12.1		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0014.jpg					52.76	-178.02	275	30.32	41	41	40	42	
+1944-06-06	8	52.77	-178.33	275		12.3		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0014.jpg					52.77	-178.33	275	30.32	42	42	41	42	
+1944-06-06	9	52.78	-178.65	275		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0014.jpg					52.78	-178.65	275	30.32	43	43	42	42	
+1944-06-06	10	52.8	-178.96	275		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0014.jpg					52.8	-178.96	275	30.3	47	47	45	42	
+1944-06-06	11	52.82	-179.27	275		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0014.jpg					52.82	-179.27	275	30.29	45	45	43	42	
+1944-06-06	12	52.83	-179.58	275		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0014.jpg					52.83	-179.58	275	30.29	44	44	43	42	
+1944-06-06	13	52.86	-179.88	275		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0014.jpg					52.86	-179.88	275	30.27	44	44	42	42	1310: USS Charleston, USS Doherty
+1944-06-06	14	52.89	179.83	275		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0014.jpg					52.89	179.83	275	30.24	44	44	42	42	
+1944-06-06	15	52.92	179.54	275		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0014.jpg					52.92	179.54	275	30.24	44	44	42	42	
+1944-06-06	16	52.95	179.24	275		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0014.jpg					52.95	179.24	275	30.22	44	44	42	42	
+1944-06-06	17	52.98	178.95	275		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0014.jpg					52.98	178.95	275	30.2	42	42	40	42	
+1944-06-06	18	53.02	178.66	275		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0014.jpg					53.02	178.66	275	30.18	42	42	40	42	
+1944-06-06	19	53.05	178.36	275		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0014.jpg					53.05	178.36	275	30.15	42	42	41	42	
+1944-06-06	20	53.08	178.07	275		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0014.jpg					53.08	178.07	275	30.13	43	43	42	42	
+1944-06-06	21	53.11	177.75	275		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0014.jpg		2105: cc 271			53.11	177.75	275	30.12	42	42	41	42	
+1944-06-06	22	53.12	177.44	271		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0014.jpg					53.12	177.44	271	30.08	42	42	41	42	
+1944-06-06	23	53.14	177.12	271		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0014.jpg					53.14	177.12	271	30.07	42	42	41	42	
+1944-06-06	24	53.16	176.81	271		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0014.jpg					53.16	176.81	271	30.05	42	42	41	42	
+1944-06-07	1	53.17	176.49	271		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0016.jpg	 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0017.jpg				53.17	176.49	271	30.01	42	42	41	42	
+1944-06-07	2	53.19	176.18	271		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0016.jpg					53.19	176.18	271	29.97	42	42	41	42	
+1944-06-07	3	53.21	175.86	271		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0016.jpg					53.21	175.86	271	29.94	42	42	41	42	
+1944-06-07	4	53.22	175.54	271		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0016.jpg					53.22	175.54	271	29.89	41	41	41	42	
+1944-06-07	5	53.24	175.23	271		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0016.jpg					53.24	175.23	271	29.85	41	41	41	40	
+1944-06-07	6	53.26	174.91	271		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0016.jpg		0601: cc 244			53.26	174.91	271	29.81	41	41	41	40	
+1944-06-07	7	53.18	174.63	244		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0016.jpg					53.18	174.63	244	29.77	42	42	42	40	
+1944-06-07	8	53.1	174.35	244		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0016.jpg					53.1	174.35	244	29.74	43	43	42	40	
+1944-06-07	9	53.01	174.03	244		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0016.jpg		0900: cc 224T			53.01	174.03	244	29.72	43	43	42	40	
+1944-06-07	10	52.86	173.79	224		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0016.jpg		1020: cc var approaching Massacre By Channel. 1044 passed whistle buoy ats dist 1/2 mi.			52.86	173.79	224	29.72	43	43	42	40	
+1944-06-07	11	52.8	173.41	270		12.3		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0016.jpg					52.8	173.41	270	29.72	43	43	42	40	
+1944-06-07	12	52.83	173.19	888		9.1		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0016.jpg		1206: Anchored berth D-1 Massacre Bay. Noon: Attu			52.83	173.19	888	29.76	44	44	43	40	
+1944-06-07	13	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0016.jpg		1358: Shifting berth			52.83	173.19		29.76	44	44	43		
+1944-06-07	14	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0016.jpg		1440: Anchored berth D-8. Tower 110T, Nun buoy 160T, rock 140o30T			52.83	173.19		29.77	44	44	43		
+1944-06-07	15	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0016.jpg					52.83	173.19		29.77	43	43	42		
+1944-06-07	16	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0016.jpg					52.83	173.19		29.76	43	43	42		
+1944-06-07	17	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0016.jpg					52.83	173.19		29.76	44	44	43		
+1944-06-07	18	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0016.jpg					52.83	173.19		29.76	44	44	44		
+1944-06-07	19	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0016.jpg					52.83	173.19		29.76	42	42	42		
+1944-06-07	20	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0016.jpg					52.83	173.19		29.76	44	44	43		
+1944-06-07	21	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0016.jpg					52.83	173.19		29.75	44	44	43		
+1944-06-07	22	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0016.jpg					52.83	173.19		29.75	43	43	43		
+1944-06-07	23	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0016.jpg					52.83	173.19		29.75	43	43	43		
+1944-06-07	24	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0016.jpg					52.83	173.19		29.76	43	43	43		
+1944-06-08	1	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0018.jpg	 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0019.jpg				52.83	173.19		29.76	44	44	44		
+1944-06-08	2	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0018.jpg					52.83	173.19		29.76	44	44	43		
+1944-06-08	3	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0018.jpg					52.83	173.19		29.76	44	44	43		
+1944-06-08	4	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0018.jpg					52.83	173.19		29.76	44	44	43		
+1944-06-08	5	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0018.jpg					52.83	173.19		29.76	44	44	44		
+1944-06-08	6	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0018.jpg					52.83	173.19		29.79	43	43	43		
+1944-06-08	7	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0018.jpg					52.83	173.19		29.79	43	43	43		
+1944-06-08	8	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0018.jpg					52.83	173.19		29.8	44	44	43		
+1944-06-08	9	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0018.jpg					52.83	173.19		29.82	46	46	45		
+1944-06-08	10	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0018.jpg					52.83	173.19		29.83	45	45	44		
+1944-06-08	11	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0018.jpg					52.83	173.19		29.84	45	45	44		
+1944-06-08	12	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0018.jpg		Noon: Attu			52.83	173.19		29.85	43	43	42		
+1944-06-08	13	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0018.jpg					52.83	173.19		29.86	46	46	45		
+1944-06-08	14	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0018.jpg					52.83	173.19		29.86	48	48	47		
+1944-06-08	15	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0018.jpg					52.83	173.19		29.87	51	51	49		
+1944-06-08	16	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0018.jpg					52.83	173.19		29.87	51	51	49		
+1944-06-08	17	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0018.jpg					52.83	173.19		29.89	49	49	48		
+1944-06-08	18	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0018.jpg					52.83	173.19		29.9	47	47	46		
+1944-06-08	19	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0018.jpg					52.83	173.19		29.92	46	46	45		
+1944-06-08	20	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0018.jpg					52.83	173.19		29.91	48	48	46		
+1944-06-08	21	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0018.jpg					52.83	173.19		29.92	47	47	46		
+1944-06-08	22	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0018.jpg					52.83	173.19		29.95	46	46	46		
+1944-06-08	23	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0018.jpg					52.83	173.19		29.96	46	46	45		
+1944-06-08	24	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0018.jpg					52.83	173.19		29.97	45	45	45		
+1944-06-09	1	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0020.jpg	 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0021.jpg				52.83	173.19		29.98	45	45	44		
+1944-06-09	2	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0020.jpg					52.83	173.19		29.98	44	44	43		
+1944-06-09	3	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0020.jpg					52.83	173.19		29.99	44	44	43		
+1944-06-09	4	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0020.jpg					52.83	173.19		29.99	41	41	41		
+1944-06-09	5	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0020.jpg					52.83	173.19		29.99	41	41	40		
+1944-06-09	6	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0020.jpg					52.83	173.19		29.99	41	41	40		
+1944-06-09	7	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0020.jpg					52.83	173.19		30	41	41	40		
+1944-06-09	8	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0020.jpg					52.83	173.19		30.02	43	43	42		
+1944-06-09	9	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0020.jpg					52.83	173.19		30.02	44	44	43		
+1944-06-09	10	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0020.jpg					52.83	173.19		30.02	45	45	44		
+1944-06-09	11	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0020.jpg					52.83	173.19		30.02	46	46	45		
+1944-06-09	12	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0020.jpg		Noon: Attu			52.83	173.19		30.02	47	47	46		
+1944-06-09	13	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0020.jpg					52.83	173.19		30.02	49	49	48		
+1944-06-09	14	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0020.jpg					52.83	173.19		30	51	51	49		1411: USS  Badger, Kimberly, Luce, Isherwood, Brazos.
+1944-06-09	15	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0020.jpg					52.83	173.19		30.01	52	52	50		
+1944-06-09	16	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0020.jpg					52.83	173.19		30	50	50	49		
+1944-06-09	17	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0020.jpg					52.83	173.19		30	49	49	48		
+1944-06-09	18	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0020.jpg					52.83	173.19		30	47	47	46		
+1944-06-09	19	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0020.jpg					52.83	173.19		29.98	47	47	46		
+1944-06-09	20	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0020.jpg					52.83	173.19		29.97	46	46	45		
+1944-06-09	21	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0020.jpg					52.83	173.19		29.96	45	45	44		
+1944-06-09	22	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0020.jpg					52.83	173.19		29.96	43	43	43		
+1944-06-09	23	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0020.jpg					52.83	173.19		29.96	43	43	43		
+1944-06-09	24	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0020.jpg					52.83	173.19		29.96	43	43	43		
+1944-06-10	1	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0022.jpg	 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0023.jpg				52.83	173.19		29.96	43	43	41		
+1944-06-10	2	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0022.jpg					52.83	173.19		29.96	42	42	41		
+1944-06-10	3	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0022.jpg					52.83	173.19		29.94	41	41	41		
+1944-06-10	4	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0022.jpg					52.83	173.19		29.93	41	41	41		
+1944-06-10	5	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0022.jpg					52.83	173.19		29.92	41	41	41		
+1944-06-10	6	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0022.jpg					52.83	173.19		29.92	41	41	41		
+1944-06-10	7	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0022.jpg					52.83	173.19		29.92	40	40	40		
+1944-06-10	8	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0022.jpg					52.83	173.19		29.91	41	41	41		
+1944-06-10	9	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0022.jpg					52.83	173.19		29.91	41	41	41		
+1944-06-10	10	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0022.jpg					52.83	173.19		29.92	44	44	43		
+1944-06-10	11	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0022.jpg					52.83	173.19		29.92	45	45	44		1118: USS Tatnuck
+1944-06-10	12	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0022.jpg		Noon: Attu			52.83	173.19		29.91	43	43	42		
+1944-06-10	13	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0022.jpg					52.83	173.19		29.91	44	44	43		
+1944-06-10	14	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0022.jpg					52.83	173.19		29.9	44	44	43		
+1944-06-10	15	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0022.jpg					52.83	173.19		29.9	44	44	43		
+1944-06-10	16	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0022.jpg					52.83	173.19		29.89	44	44	43		
+1944-06-10	17	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0022.jpg					52.83	173.19		29.87	45	45	44		
+1944-06-10	18	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0022.jpg					52.83	173.19		29.85	48	48	47		
+1944-06-10	19	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0022.jpg					52.83	173.19		29.85	49	49	48		
+1944-06-10	20	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0022.jpg					52.83	173.19		29.85	47	47	46		
+1944-06-10	21	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0022.jpg					52.83	173.19		29.85	47	47	46		
+1944-06-10	22	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0022.jpg					52.83	173.19		29.85	46	46	45		
+1944-06-10	23	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0022.jpg					52.83	173.19		29.85	46	46	45		
+1944-06-10	24	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0022.jpg					52.83	173.19		29.85	45	45	44		
+1944-06-11	1	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0024.jpg	 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0025.jpg				52.83	173.19		29.84	43	43	43		
+1944-06-11	2	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0024.jpg					52.83	173.19		29.84	43	43	43		
+1944-06-11	3	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0024.jpg					52.83	173.19		29.83	43	43	43		
+1944-06-11	4	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0024.jpg					52.83	173.19		29.83	43	44	43		
+1944-06-11	5	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0024.jpg					52.83	173.19		29.81	43	43	43		
+1944-06-11	6	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0024.jpg					52.83	173.19		29.81	43	43	43		
+1944-06-11	7	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0024.jpg					52.83	173.19		29.81	45	45	44		
+1944-06-11	8	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0024.jpg					52.83	173.19		29.81	45	45	45		
+1944-06-11	9	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0024.jpg					52.83	173.19		29.81	45	45	44		
+1944-06-11	10	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0024.jpg					52.83	173.19		29.81	45	45	44		
+1944-06-11	11	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0024.jpg					52.83	173.19		29.81	48	48	47		
+1944-06-11	12	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0024.jpg		Noon: Attu			52.83	173.19		29.81	47	47	46		
+1944-06-11	13	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0024.jpg					52.83	173.19		29.81	49	49	48		
+1944-06-11	14	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0024.jpg					52.83	173.19		29.8	51	51	50		
+1944-06-11	15	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0024.jpg					52.83	173.19		29.79	52	52	51		
+1944-06-11	16	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0024.jpg					52.83	173.19		29.79	53	53	52		
+1944-06-11	17	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0024.jpg					52.83	173.19		29.78	53	53	52		
+1944-06-11	18	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0024.jpg					52.83	173.19		29.78	50	50	49		
+1944-06-11	19	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0024.jpg					52.83	173.19		29.77	47	47	47		
+1944-06-11	20	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0024.jpg					52.83	173.19		29.77	46	46	46		
+1944-06-11	21	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0024.jpg					52.83	173.19		29.78	45	45	45		
+1944-06-11	22	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0024.jpg					52.83	173.19		29.78	45	45	45		
+1944-06-11	23	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0024.jpg					52.83	173.19		29.78	45	45	45		
+1944-06-11	24	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0024.jpg					52.83	173.19		29.78	45	45	45		
+1944-06-12	1	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0026.jpg	 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0027.jpg				52.83	173.19		29.78	44	44	44		
+1944-06-12	2	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0026.jpg					52.83	173.19		29.78	44	44	44		
+1944-06-12	3	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0026.jpg					52.83	173.19		29.78	45	45	44		
+1944-06-12	4	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0026.jpg					52.83	173.19		29.78	45	45	44		
+1944-06-12	5	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0026.jpg					52.83	173.19		29.78	47	47	46		
+1944-06-12	6	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0026.jpg					52.83	173.19		29.78	46	46	45		
+1944-06-12	7	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0026.jpg					52.83	173.19		29.78	44	44	44		
+1944-06-12	8	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0026.jpg					52.83	173.19		29.79	44	44	44		
+1944-06-12	9	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0026.jpg					52.83	173.19		29.8	45	45	44		
+1944-06-12	10	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0026.jpg					52.83	173.19		29.8	44	44	44		
+1944-06-12	11	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0026.jpg					52.83	173.19		29.8	46	46	46		
+1944-06-12	12	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0026.jpg		Noon: Attu			52.83	173.19		29.8	48	48	47		
+1944-06-12	13	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0026.jpg					52.83	173.19		29.8	48	48	48		
+1944-06-12	14	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0026.jpg					52.83	173.19		29.8	48	48	48		
+1944-06-12	15	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0026.jpg					52.83	173.19		29.8	47	47	47		
+1944-06-12	16	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0026.jpg					52.83	173.19		29.81	47	47	47		
+1944-06-12	17	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0026.jpg					52.83	173.19		29.81	47	47	47		
+1944-06-12	18	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0026.jpg					52.83	173.19		29.81	47	47	46		
+1944-06-12	19	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0026.jpg					52.83	173.19		29.81	46	46	46		
+1944-06-12	20	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0026.jpg					52.83	173.19		29.81	46	46	46		
+1944-06-12	21	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0026.jpg					52.83	173.19		29.8	46	46	46		
+1944-06-12	22	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0026.jpg					52.83	173.19		29.8	46	46	46		
+1944-06-12	23	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0026.jpg					52.83	173.19		29.8	45	45	45		
+1944-06-12	24	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0026.jpg					52.83	173.19		29.81	44	44	44		
+1944-06-13	1	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0028.jpg	 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0029.jpg				52.83	173.19		29.81	43	43	43		
+1944-06-13	2	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0028.jpg					52.83	173.19		29.81	43	43	43		
+1944-06-13	3	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0028.jpg					52.83	173.19		29.81	43	43	43		
+1944-06-13	4	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0028.jpg					52.83	173.19		29.81	43	43	43		
+1944-06-13	5	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0028.jpg					52.83	173.19		29.78	44	44	44		
+1944-06-13	6	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0028.jpg					52.83	173.19		29.78	44	44	44		
+1944-06-13	7	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0028.jpg					52.83	173.19		29.78	45	45	44		
+1944-06-13	8	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0028.jpg					52.83	173.19		29.77	43	43	43		
+1944-06-13	9	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0028.jpg					52.83	173.19		29.77	43	43	43		
+1944-06-13	10	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0028.jpg					52.83	173.19		29.78	45	45	45		
+1944-06-13	11	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0028.jpg					52.83	173.19		29.78	42	42	41		
+1944-06-13	12	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0028.jpg		Noon: Attu			52.83	173.19		29.77	45	45	44		
+1944-06-13	13	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0028.jpg					52.83	173.19		29.76	47	47	46		
+1944-06-13	14	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0028.jpg					52.83	173.19		29.76	48	48	47		
+1944-06-13	15	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0028.jpg					52.83	173.19		29.75	49	49	48		
+1944-06-13	16	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0028.jpg					52.83	173.19		29.75	49	49	48		
+1944-06-13	17	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0028.jpg					52.83	173.19		29.74	48	48	47		
+1944-06-13	18	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0028.jpg					52.83	173.19		29.73	47	47	46		
+1944-06-13	19	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0028.jpg					52.83	173.19		29.73	46	46	45		
+1944-06-13	20	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0028.jpg					52.83	173.19		29.72	46	46	45		
+1944-06-13	21	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0028.jpg					52.83	173.19		29.72	45	45	45		
+1944-06-13	22	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0028.jpg					52.83	173.19		29.72	44	44	44		
+1944-06-13	23	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0028.jpg					52.83	173.19		29.71	44	44	44		
+1944-06-13	24	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0028.jpg					52.83	173.19		29.7	43	43	43		
+1944-06-14	1	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0030.jpg	 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0031.jpg				52.83	173.19		29.72	44	44	43		
+1944-06-14	2	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0030.jpg					52.83	173.19		29.72	44	44	43		
+1944-06-14	3	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0030.jpg					52.83	173.19		29.72	44	44	43		
+1944-06-14	4	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0030.jpg					52.83	173.19		29.72	45	45	44		
+1944-06-14	5	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0030.jpg					52.83	173.19		29.71	45	45	44		
+1944-06-14	6	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0030.jpg					52.83	173.19		29.71	45	45	44		
+1944-06-14	7	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0030.jpg					52.83	173.19		29.72	46	46	44		
+1944-06-14	8	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0030.jpg					52.83	173.19		29.72	46	46	45		
+1944-06-14	9	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0030.jpg					52.83	173.19		29.73	47	47	46		
+1944-06-14	10	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0030.jpg					52.83	173.19		29.74	48	48	47		
+1944-06-14	11	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0030.jpg					52.83	173.19		29.74	49	49	47		
+1944-06-14	12	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0030.jpg		Noon: Attu			52.83	173.19		29.74	51	51	49		
+1944-06-14	13	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0030.jpg					52.83	173.19		29.74	51	51	50		
+1944-06-14	14	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0030.jpg					52.83	173.19		29.75	51	51	50		
+1944-06-14	15	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0030.jpg					52.83	173.19		29.76	52	52	51		
+1944-06-14	16	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0030.jpg					52.83	173.19		29.75	53	53	50		
+1944-06-14	17	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0030.jpg					52.83	173.19		29.75	51	51	49		
+1944-06-14	18	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0030.jpg					52.83	173.19		29.75	51	51	49		
+1944-06-14	19	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0030.jpg					52.83	173.19		29.76	51	51	49		
+1944-06-14	20	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0030.jpg					52.83	173.19		29.76	51	51	49		
+1944-06-14	21	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0030.jpg					52.83	173.19		29.79	53	53	51		
+1944-06-14	22	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0030.jpg					52.83	173.19		29.8	51	51	50		
+1944-06-14	23	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0030.jpg					52.83	173.19		29.8	51	51	50		
+1944-06-14	24	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0030.jpg					52.83	173.19		29.81	47	47	45		
+1944-06-15	1	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0032.jpg	 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0033.jpg				52.83	173.19		29.81	45	45	44		
+1944-06-15	2	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0032.jpg					52.83	173.19		29.82	43	43	42		
+1944-06-15	3	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0032.jpg					52.83	173.19		29.82	44	44	43		
+1944-06-15	4	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0032.jpg					52.83	173.19		29.81	44	44	43		
+1944-06-15	5	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0032.jpg					52.83	173.19		29.8	45	45	43		
+1944-06-15	6	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0032.jpg					52.83	173.19		29.78	46	46	43		
+1944-06-15	7	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0032.jpg					52.83	173.19		29.78	46	46	43		
+1944-06-15	8	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0032.jpg					52.83	173.19		29.78	46	46	43		
+1944-06-15	9	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0032.jpg					52.83	173.19		29.78	46	46	45		
+1944-06-15	10	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0032.jpg					52.83	173.19		29.78	45	45	45		
+1944-06-15	11	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0032.jpg					52.83	173.19		29.78	45	45	45		
+1944-06-15	12	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0032.jpg		Noon: Attu			52.83	173.19		29.76	49	49	47		
+1944-06-15	13	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0032.jpg					52.83	173.19		29.75	46	46	45		
+1944-06-15	14	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0032.jpg					52.83	173.19		29.72	46	46	45		
+1944-06-15	15	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0032.jpg					52.83	173.19		29.72	50	50	48		
+1944-06-15	16	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0032.jpg					52.83	173.19		29.71	50	50	47		
+1944-06-15	17	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0032.jpg					52.83	173.19		29.71	52	52	50		
+1944-06-15	18	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0032.jpg					52.83	173.19		29.71	53	53	51		
+1944-06-15	19	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0032.jpg					52.83	173.19		29.71	51	51	49		
+1944-06-15	20	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0032.jpg					52.83	173.19		29.7	50	50	48		
+1944-06-15	21	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0032.jpg					52.83	173.19		29.7	50	50	48		
+1944-06-15	22	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0032.jpg					52.83	173.19		29.7	48	48	47		
+1944-06-15	23	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0032.jpg					52.83	173.19		29.7	48	48	47		
+1944-06-15	24	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0032.jpg					52.83	173.19		29.71	48	48	46		
+1944-06-16	1	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0034.jpg	 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0035.jpg				52.83	173.19		29.71	47	47	46		
+1944-06-16	2	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0034.jpg					52.83	173.19		29.7	46	46	45		
+1944-06-16	3	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0034.jpg					52.83	173.19		29.7	46	46	44		
+1944-06-16	4	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0034.jpg					52.83	173.19		29.7	45	45	44		
+1944-06-16	5	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0034.jpg					52.83	173.19		29.69	44	44	43		
+1944-06-16	6	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0034.jpg					52.83	173.19		29.69	44	44	43		
+1944-06-16	7	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0034.jpg					52.83	173.19		29.69	46	46	45		
+1944-06-16	8	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0034.jpg					52.83	173.19		29.69	46	46	45		
+1944-06-16	9	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0034.jpg					52.83	173.19		29.7	45	45	44		
+1944-06-16	10	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0034.jpg					52.83	173.19		29.7	45	45	44		
+1944-06-16	11	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0034.jpg					52.83	173.19		29.69	45	45	44		
+1944-06-16	12	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0034.jpg		Noon: Attu			52.83	173.19		29.69	45	45	44		
+1944-06-16	13	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0034.jpg					52.83	173.19		29.68	47	47	46		
+1944-06-16	14	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0034.jpg					52.83	173.19		29.68	47	47	46		
+1944-06-16	15	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0034.jpg					52.83	173.19		29.68	47	47	47		
+1944-06-16	16	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0034.jpg					52.83	173.19		29.68	48	48	47		
+1944-06-16	17	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0034.jpg					52.83	173.19		29.68	48	48	47		1712: Uss Picking, Sproston, Isherwood
+1944-06-16	18	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0034.jpg					52.83	173.19		29.67	48	48	47		
+1944-06-16	19	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0034.jpg					52.83	173.19		29.67	47	47	47		
+1944-06-16	20	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0034.jpg					52.83	173.19		29.67	47	47	46		
+1944-06-16	21	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0034.jpg					52.83	173.19		29.67	46	46	45		
+1944-06-16	22	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0034.jpg					52.83	173.19		29.67	45	45	45		
+1944-06-16	23	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0034.jpg					52.83	173.19		29.69	44	44	44		
+1944-06-16	24	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0034.jpg					52.83	173.19		29.68	45	45	44		
+1944-06-17	1	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0036.jpg	 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0037.jpg				52.83	173.19		29.68	45	45	44		
+1944-06-17	2	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0036.jpg					52.83	173.19		29.68	44	44	44		
+1944-06-17	3	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0036.jpg					52.83	173.19		29.67	44	44	43		
+1944-06-17	4	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0036.jpg					52.83	173.19		29.67	43	43	42		
+1944-06-17	5	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0036.jpg					52.83	173.19		29.67	44	44	43		
+1944-06-17	6	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0036.jpg					52.83	173.19		29.65	42	42	42		
+1944-06-17	7	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0036.jpg					52.83	173.19		29.65	41	41	40		
+1944-06-17	8	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0036.jpg					52.83	173.19		29.66	43	43	42		
+1944-06-17	9	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0036.jpg					52.83	173.19		29.68	44	44	43		
+1944-06-17	10	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0036.jpg					52.83	173.19		29.67	48	48	46		
+1944-06-17	11	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0036.jpg					52.83	173.19		29.66	46	46	45		
+1944-06-17	12	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0036.jpg		Noon: Attu			52.83	173.19		29.65	49	49	48		
+1944-06-17	13	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0036.jpg					52.83	173.19		29.66	45	45	44		
+1944-06-17	14	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0036.jpg					52.83	173.19		29.65	52	52	49		1410: USS Kimberly
+1944-06-17	15	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0036.jpg					52.83	173.19		29.64	52	52	50		
+1944-06-17	16	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0036.jpg					52.83	173.19		29.64	52	52	51		
+1944-06-17	17	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0036.jpg					52.83	173.19		29.62	53	53	52		
+1944-06-17	18	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0036.jpg					52.83	173.19		29.62	53	53	52		
+1944-06-17	19	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0036.jpg					52.83	173.19		29.62	51	51	50		
+1944-06-17	20	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0036.jpg					52.83	173.19		29.62	50	50	49		
+1944-06-17	21	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0036.jpg					52.83	173.19		29.62	45	45	45		
+1944-06-17	22	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0036.jpg					52.83	173.19		29.62	45	45	44		
+1944-06-17	23	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0036.jpg					52.83	173.19		29.62	46	46	45		
+1944-06-17	24	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0036.jpg					52.83	173.19		29.63	46	46	45		
+1944-06-18	1	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0038.jpg	 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0039.jpg				52.83	173.19		29.64	47	47	46		
+1944-06-18	2	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0038.jpg					52.83	173.19		29.63	46	46	45		
+1944-06-18	3	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0038.jpg					52.83	173.19		29.62	45	45	43		
+1944-06-18	4	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0038.jpg					52.83	173.19		29.61	44	44	43		
+1944-06-18	5	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0038.jpg					52.83	173.19		29.63	45	45	44		
+1944-06-18	6	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0038.jpg					52.83	173.19		29.63	45	45	44		
+1944-06-18	7	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0038.jpg					52.83	173.19		29.63	45	45	44		
+1944-06-18	8	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0038.jpg					52.83	173.19		29.63	45	45	44		
+1944-06-18	9	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0038.jpg					52.83	173.19		29.63	47	47	46		
+1944-06-18	10	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0038.jpg					52.83	173.19		29.65	46	46	45		
+1944-06-18	11	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0038.jpg					52.83	173.19		29.65	54	54	49		
+1944-06-18	12	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0038.jpg		Noon: Attu			52.83	173.19		29.65	54	54	52		
+1944-06-18	13	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0038.jpg					52.83	173.19		29.65	52	52	50		
+1944-06-18	14	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0038.jpg					52.83	173.19		29.64	50	50	49		
+1944-06-18	15	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0038.jpg					52.83	173.19		29.65	50	50	49		
+1944-06-18	16	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0038.jpg					52.83	173.19		29.65	50	50	49		
+1944-06-18	17	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0038.jpg					52.83	173.19		29.65	48	48	47		
+1944-06-18	18	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0038.jpg					52.83	173.19		29.64	48	48	47		
+1944-06-18	19	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0038.jpg					52.83	173.19		29.64	48	48	47		
+1944-06-18	20	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0038.jpg					52.83	173.19		29.64	48	48	47		
+1944-06-18	21	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0038.jpg					52.83	173.19		29.66	48	48	47		
+1944-06-18	22	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0038.jpg					52.83	173.19		29.65	46	46	46		
+1944-06-18	23	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0038.jpg					52.83	173.19		29.66	46	46	46		
+1944-06-18	24	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0038.jpg					52.83	173.19		29.66	45	45	44		
+1944-06-19	1	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0040.jpg	 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0041.jpg				52.83	173.19		29.66	45	45	44		
+1944-06-19	2	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0040.jpg					52.83	173.19		29.65	45	45	44		
+1944-06-19	3	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0040.jpg					52.83	173.19		29.64	45	45	44		
+1944-06-19	4	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0040.jpg					52.83	173.19		29.63	45	45	44		
+1944-06-19	5	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0040.jpg					52.83	173.19		29.62	45	45	44		
+1944-06-19	6	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0040.jpg					52.83	173.19		29.62	45	45	44		
+1944-06-19	7	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0040.jpg					52.83	173.19		29.62	44	44	44		
+1944-06-19	8	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0040.jpg					52.83	173.19		29.62	44	44	44		
+1944-06-19	9	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0040.jpg					52.83	173.19		29.63	45	45	44		
+1944-06-19	10	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0040.jpg		1032: Got Underway. 1055 cc 90			52.83	173.19		29.63	45	45	44		1055: USS Doneff, Admirable
+1944-06-19	11	52.81	173.42	90		10.5		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0040.jpg		1118: cc 95. 1136 cc 52			52.81	173.42	90	29.63	45	45	44	42	
+1944-06-19	12	52.83	173.68	76		12.2		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0040.jpg					52.83	173.68	76	29.63	43	43	42	42	
+1944-06-19	13	52.97	173.95	52		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0040.jpg		1315: cc 95			52.97	173.95	52	29.62	43	43	42	43	
+1944-06-19	14	52.99	174.28	85		12.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0040.jpg					52.99	174.28	85	29.62	43	43	42	43	
+1944-06-19	15	52.97	174.63	95		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0040.jpg					52.97	174.63	95	29.62	43	43	42	44	
+1944-06-19	16	52.95	174.98	95		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0040.jpg					52.95	174.98	95	29.62	43	43	42	44	
+1944-06-19	17	52.94	175.32	95		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0040.jpg					52.94	175.32	95	29.63	44	44	43	44	
+1944-06-19	18	52.92	175.67	95		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0040.jpg					52.92	175.67	95	29.63	44	44	43	44	
+1944-06-19	19	52.9	176.01	95		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0040.jpg					52.9	176.01	95	29.63	44	44	43	44	
+1944-06-19	20	52.88	176.36	95		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0040.jpg		2040: cc 97			52.88	176.36	95	29.63	44	44	43	44	
+1944-06-19	21	52.87	176.69	96		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0040.jpg					52.87	176.69	96	29.63	47	47	46	44	
+1944-06-19	22	52.85	177.03	97		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0040.jpg					52.85	177.03	97	29.63	48	48	47	46	
+1944-06-19	23	52.82	177.36	97		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0040.jpg					52.82	177.36	97	29.64	46	46	45	44	
+1944-06-19	24	52.8	177.7	97		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0040.jpg					52.8	177.7	97	29.65	45	45	44	44	
+1944-06-20	1	52.78	178.03	97		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0042.jpg	 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0043.jpg				52.78	178.03	97	29.65	45	45	44	44	
+1944-06-20	2	52.76	178.37	97		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0042.jpg					52.76	178.37	97	29.65	45	45	44	44	
+1944-06-20	3	52.74	178.7	97		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0042.jpg					52.74	178.7	97	29.64	45	45	44	44	
+1944-06-20	4	52.72	179.03	97		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0042.jpg					52.72	179.03	97	29.63	45	45	44	46	
+1944-06-20	5	52.7	179.37	97		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0042.jpg					52.7	179.37	97	29.6	46	46	45	46	
+1944-06-20	6	52.68	179.7	97		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0042.jpg					52.68	179.7	97	29.6	45	45	44	46	
+1944-06-20	7	52.65	-179.97	97		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0042.jpg					52.65	-179.97	97	29.59	45	45	44	46	
+1944-06-20	8	52.63	-179.63	97		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0042.jpg					52.63	-179.63	97	29.59	45	45	44	42	
+1944-06-20	9	52.63	-179.28	97		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0042.jpg					52.63	-179.28	97	29.57	45	45	44	43	
+1944-06-20	10	52.63	-178.93	97		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0042.jpg					52.63	-178.93	97	29.57	45	45	44	42	
+1944-06-20	11	52.63	-178.57	97		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0042.jpg					52.63	-178.57	97	29.54	45	45	44	44	
+1944-06-20	12	52.63	-178.22	97		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0042.jpg					52.63	-178.22	97	29.53	45	45	44	44	
+1944-06-20	13	52.58	-177.87	97		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0042.jpg					52.58	-177.87	97	29.51	45	45	45	44	
+1944-06-20	14	52.52	-177.52	97		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0042.jpg					52.52	-177.52	97	29.49	45	45	45	44	
+1944-06-20	15	52.47	-177.18	97		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0042.jpg					52.47	-177.18	97	29.47	45	45	45	44	
+1944-06-20	16	52.41	-176.83	97		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0042.jpg		1650: cc 172			52.41	-176.83	97	29.45	46	46	45	44	
+1944-06-20	17	52.32	-176.54	107		11.6		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0042.jpg					52.32	-176.54	107	29.44	45	45	45	42	
+1944-06-20	18	52.1	-176.5	172		12		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0042.jpg		1815: cc 185. 1847 cc 223. 1858 Arrived Kuluk Bay.			52.1	-176.5	172	29.44	45	45	45	42	
+1944-06-20	19	51.88	-176.56	190		11.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0042.jpg		1932: cc 75. 1940 cc 66.			51.88	-176.56	190	29.44	43	43	43	42	
+1944-06-20	20	51.96	-176.24	69		10.8		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0042.jpg		2019: cc cc 63. 2024 cc 60. 2026 cc 52. 2031 cc 50. 2042 cc 90. 2045 Cape Kiugilak atp dist 3800 yds. Entering Sand Bay. 2000: Adak			51.96	-176.24	69	29.44	43	43	43	42	
+1944-06-20	21	51.98	-176.16	69		1.6		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0042.jpg		2120: Moored Sand Bay dock.			51.98	-176.16	69	29.44	43	43	43	42	
+1944-06-20	22	51.99	-176.1	888		0.4		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0042.jpg					51.99	-176.1	888	29.43	45	45	45		
+1944-06-20	23	51.99	-176.1			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0042.jpg					51.99	-176.1		29.43	46	46	46		
+1944-06-20	24	51.99	-176.1			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0042.jpg					51.99	-176.1		29.43	46	46	46		
+1944-06-21	1	51.99	-176.1			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0044.jpg	 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0045.jpg				51.99	-176.1		29.43	45	45	45		
+1944-06-21	2	51.99	-176.1			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0044.jpg					51.99	-176.1		29.43	45	45	45		
+1944-06-21	3	51.99	-176.1			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0044.jpg					51.99	-176.1		29.43	45	45	45		
+1944-06-21	4	51.99	-176.1			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0044.jpg					51.99	-176.1		29.43	45	45	45		
+1944-06-21	5	51.99	-176.1			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0044.jpg					51.99	-176.1		29.44	46	46	45		
+1944-06-21	6	51.99	-176.1			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0044.jpg					51.99	-176.1		29.45	46	46	45		
+1944-06-21	7	51.99	-176.1			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0044.jpg					51.99	-176.1		29.45	46	46	45		
+1944-06-21	8	51.99	-176.1			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0044.jpg		0800: Sand Bay			51.99	-176.1		29.45	47	47	46		
+1944-06-21	9	51.99	-176.1			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0044.jpg					51.99	-176.1		29.45	47	47	47		
+1944-06-21	10	51.99	-176.1			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0044.jpg					51.99	-176.1		29.45	48	48	47		
+1944-06-21	11	51.99	-176.1			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0044.jpg		1102: Underway. 1144 Aziuk atp dist 1.6 mi. cc 248.			51.99	-176.1		29.45	48	48	47		
+1944-06-21	12	51.88	-176.59	248		7.8		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0044.jpg		1245: cc var. Noon: Adak			51.88	-176.59	248	29.47	47	47	46	42	
+1944-06-21	13	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0044.jpg		1336: Anchored			51.88	-176.59		29.5	47	47	46		
+1944-06-21	14	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0044.jpg					51.88	-176.59		29.52	46	46	45		
+1944-06-21	15	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0044.jpg					51.88	-176.59		29.52	47	47	45		
+1944-06-21	16	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0044.jpg					51.88	-176.59		29.52	48	48	46		
+1944-06-21	17	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0044.jpg					51.88	-176.59		29.52	48	48	46		
+1944-06-21	18	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0044.jpg					51.88	-176.59		29.53	48	48	46		
+1944-06-21	19	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0044.jpg					51.88	-176.59		29.52	48	48	47		
+1944-06-21	20	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0044.jpg					51.88	-176.59		29.52	47	47	46		
+1944-06-21	21	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0044.jpg					51.88	-176.59		29.54	47	47	45		
+1944-06-21	22	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0044.jpg					51.88	-176.59		29.55	46	46	45		
+1944-06-21	23	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0044.jpg					51.88	-176.59		29.55	46	46	45		
+1944-06-21	24	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0044.jpg					51.88	-176.59		29.55	46	46	45		
+1944-06-22	1	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0046.jpg	 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0047.jpg				51.88	-176.59		29.55	47	47	45		
+1944-06-22	2	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0046.jpg					51.88	-176.59		29.54	47	47	45		
+1944-06-22	3	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0046.jpg					51.88	-176.59		29.53	46	46	45		
+1944-06-22	4	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0046.jpg					51.88	-176.59		29.53	46	46	45		
+1944-06-22	5	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0046.jpg					51.88	-176.59		29.53	45	45	44		
+1944-06-22	6	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0046.jpg					51.88	-176.59		29.54	45	45	44		
+1944-06-22	7	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0046.jpg					51.88	-176.59		29.54	45	45	44		
+1944-06-22	8	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0046.jpg					51.88	-176.59		29.56	46	46	45		
+1944-06-22	9	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0046.jpg					51.88	-176.59		29.57	46	46	45		
+1944-06-22	10	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0046.jpg					51.88	-176.59		29.58	46	46	45		
+1944-06-22	11	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0046.jpg					51.88	-176.59		29.58	46	46	45		
+1944-06-22	12	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0046.jpg		Noon: Adak			51.88	-176.59		29.58	47	47	46		
+1944-06-22	13	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0046.jpg					51.88	-176.59		29.58	48	48	46		
+1944-06-22	14	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0046.jpg					51.88	-176.59		29.57	48	48	46		
+1944-06-22	15	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0046.jpg					51.88	-176.59		29.58	48	48	46		
+1944-06-22	16	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0046.jpg					51.88	-176.59		29.58	48	48	46		
+1944-06-22	17	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0046.jpg					51.88	-176.59		29.58	47	47	45		
+1944-06-22	18	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0046.jpg					51.88	-176.59		29.58	47	47	45		
+1944-06-22	19	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0046.jpg					51.88	-176.59		29.58	48	48	46		
+1944-06-22	20	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0046.jpg					51.88	-176.59		29.58	48	48	46		
+1944-06-22	21	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0046.jpg		2115: Underway. cc 42. 2145 Cape Adagdak atp dist 3.3 mi. 2147 cc 339.			51.88	-176.59		29.58	46	46	45		2115: USS Daly, USGC Cyane
+1944-06-22	22	52.02	-176.45	25		10.2		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0046.jpg		2202: cc 337. 2218 cc 354			52.02	-176.45	25	29.59	44	44	44		
+1944-06-22	23	52.22	-176.5	349		12.9		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0046.jpg					52.22	-176.5	349	29.59	43	43	42		
+1944-06-22	24	52.43	-176.51	354		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0046.jpg					52.43	-176.51	354	29.59	43	43	42		
+1944-06-23	1	52.63	-176.53	354		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0048.jpg	 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0049.jpg	0130: cc 275			52.63	-176.53	354	29.57	43	43	43	42	
+1944-06-23	2	52.74	-176.71	314		10		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0048.jpg					52.74	-176.71	314	29.54	43	43	42	42	
+1944-06-23	3	52.74	-177.04	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0048.jpg					52.74	-177.04	275	29.54	43	43	42	42	
+1944-06-23	4	52.75	-177.38	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0048.jpg					52.75	-177.38	275	29.54	43	43	42	42	
+1944-06-23	5	52.76	-177.71	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0048.jpg					52.76	-177.71	275	29.54	43	43	42	42	
+1944-06-23	6	52.77	-178.05	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0048.jpg					52.77	-178.05	275	29.55	44	44	43	44	
+1944-06-23	7	52.78	-178.38	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0048.jpg					52.78	-178.38	275	29.56	44	44	43	44	
+1944-06-23	8	52.78	-178.72	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0048.jpg					52.78	-178.72	275	29.57	45	45	44	42	
+1944-06-23	9	52.8	-179.04	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0048.jpg					52.8	-179.04	275	29.58	45	45	44	42	
+1944-06-23	10	52.81	-179.36	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0048.jpg					52.81	-179.36	275	29.58	45	45	44	44	
+1944-06-23	11	52.82	-179.68	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0048.jpg					52.82	-179.68	275	29.58	45	45	44	44	
+1944-06-23	12	52.83	-180	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0048.jpg					52.83	-180	275	29.6	45	45	44	44	
+1944-06-23	13	52.85	179.68	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0048.jpg					52.85	179.68	275	29.6	46	46	45	44	
+1944-06-23	14	52.86	179.35	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0048.jpg					52.86	179.35	275	29.6	47	47	46	44	
+1944-06-23	15	52.88	179.03	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0048.jpg					52.88	179.03	275	29.6	47	47	46	44	
+1944-06-23	16	52.89	178.7	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0048.jpg					52.89	178.7	275	29.62	46	46	45	44	
+1944-06-23	17	52.91	178.38	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0048.jpg					52.91	178.38	275	29.64	46	46	45	44	
+1944-06-23	18	52.92	178.05	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0048.jpg					52.92	178.05	275	29.65	45	45	44	44	
+1944-06-23	19	52.94	177.73	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0048.jpg					52.94	177.73	275	29.68	45	45	44	44	
+1944-06-23	20	52.95	177.4	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0048.jpg					52.95	177.4	275	29.69	46	46	44	45	
+1944-06-23	21	52.97	177.04	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0048.jpg					52.97	177.04	275	29.71	46	46	45	45	
+1944-06-23	22	52.98	176.68	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0048.jpg					52.98	176.68	275	29.75	46	46	45	45	
+1944-06-23	23	53	176.32	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0048.jpg					53	176.32	275	29.77	45	45	44	44	
+1944-06-23	24	53.02	175.96	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0048.jpg					53.02	175.96	275	29.79	44	45	44	44	
+1944-06-24	1	53.03	175.6	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0050.jpg	 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0051.jpg				53.03	175.6	275	29.81	44	44	43	44	
+1944-06-24	2	53.05	175.24	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0050.jpg					53.05	175.24	275	29.83	42	42	41	44	
+1944-06-24	3	53.06	174.87	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0050.jpg					53.06	174.87	275	29.85	43	43	42	44	
+1944-06-24	4	53.08	174.51	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0050.jpg					53.08	174.51	275	29.87	43	43	42	44	
+1944-06-24	5	53.1	174.15	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0050.jpg					53.1	174.15	275	29.88	43	43	42	44	
+1944-06-24	6	53.11	173.79	275		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0050.jpg		0624: cc 200. 0640 cc 190. 			53.11	173.79	275	29.9	43	43	42	44	
+1944-06-24	7	52.99	173.59	225		10		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0050.jpg		0723: cc 195. 0743 cc 209.			52.99	173.59	225	29.92	42	42	41	44	
+1944-06-24	8	52.78	173.48	197		12.9		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0050.jpg		0823: cc var.			52.78	173.48	197	29.92	46	46	45	42	
+1944-06-24	9	52.83	173.19	269		9.6		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0050.jpg		0907: Anchored. Brgs: #2 beacon 58o5T, shore station 292, r tan rock 329o5'.			52.83	173.19	269	29.93	48	48	46	42	
+1944-06-24	10	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0050.jpg					52.83	173.19		29.94	57	57	52		
+1944-06-24	11	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0050.jpg					52.83	173.19		29.94	57	57	55		
+1944-06-24	12	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0050.jpg		Noon: Attu			52.83	173.19		29.94	53	53	51		
+1944-06-24	13	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0050.jpg					52.83	173.19		29.94	53	53	51		
+1944-06-24	14	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0050.jpg					52.83	173.19		29.92	53	53	51		
+1944-06-24	15	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0050.jpg					52.83	173.19		29.93	52	52	51		
+1944-06-24	16	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0050.jpg					52.83	173.19		29.92	55	55	52		
+1944-06-24	17	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0050.jpg					52.83	173.19		29.91	55	55	52		
+1944-06-24	18	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0050.jpg					52.83	173.19		29.91	53	53	52		
+1944-06-24	19	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0050.jpg					52.83	173.19		29.91	52	52	50		
+1944-06-24	20	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0050.jpg					52.83	173.19		29.91	49	49	48		
+1944-06-24	21	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0050.jpg					52.83	173.19		29.91	48	48	47		
+1944-06-24	22	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0050.jpg					52.83	173.19		29.91	48	48	47		
+1944-06-24	23	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0050.jpg					52.83	173.19		29.91	47	47	46		
+1944-06-24	24	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0050.jpg					52.83	173.19		29.92	47	47	46		
+1944-06-25	1	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0052.jpg	 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0053.jpg				52.83	173.19		29.92	47	47	46		
+1944-06-25	2	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0052.jpg					52.83	173.19		29.92	46	46	45		
+1944-06-25	3	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0052.jpg					52.83	173.19		29.92	45	45	44		
+1944-06-25	4	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0052.jpg					52.83	173.19		29.91	47	47	46		
+1944-06-25	5	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0052.jpg					52.83	173.19		29.91	47	47	46		
+1944-06-25	6	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0052.jpg					52.83	173.19		29.91	44	44	43		
+1944-06-25	7	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0052.jpg					52.83	173.19		29.91	44	44	43		
+1944-06-25	8	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0052.jpg					52.83	173.19		29.91	44	44	43		
+1944-06-25	9	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0052.jpg					52.83	173.19		29.91	46	46	44		
+1944-06-25	10	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0052.jpg					52.83	173.19		29.91	46	46	44		
+1944-06-25	11	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0052.jpg					52.83	173.19		29.92	47	47	45		
+1944-06-25	12	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0052.jpg		Noon: Attu			52.83	173.19		29.92	47	47	45		
+1944-06-25	13	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0052.jpg					52.83	173.19		29.92	49	49	48		
+1944-06-25	14	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0052.jpg					52.83	173.19		29.92	51	51	50		
+1944-06-25	15	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0052.jpg					52.83	173.19		29.92	52	52	50		
+1944-06-25	16	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0052.jpg					52.83	173.19		29.92	52	52	50		
+1944-06-25	17	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0052.jpg					52.83	173.19		29.91	51	51	50		
+1944-06-25	18	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0052.jpg					52.83	173.19		29.9	52	52	51		
+1944-06-25	19	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0052.jpg					52.83	173.19		29.9	52	52	51		
+1944-06-25	20	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0052.jpg					52.83	173.19		29.89	53	53	51		
+1944-06-25	21	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0052.jpg					52.83	173.19		29.88	50	50	49		
+1944-06-25	22	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0052.jpg					52.83	173.19		29.88	47	47	46		
+1944-06-25	23	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0052.jpg					52.83	173.19		29.88	46	46	45		
+1944-06-25	24	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0052.jpg					52.83	173.19		29.88	46	46	45		
+1944-06-26	1	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0054.jpg	 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0055.jpg				52.83	173.19		29.9	45	45	45		
+1944-06-26	2	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0054.jpg					52.83	173.19		29.9	45	45	44		
+1944-06-26	3	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0054.jpg					52.83	173.19		29.89	45	45	44		
+1944-06-26	4	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0054.jpg					52.83	173.19		29.89	45	45	44		
+1944-06-26	5	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0054.jpg					52.83	173.19		29.89	45	45	44		
+1944-06-26	6	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0054.jpg					52.83	173.19		29.88	44	44	44		
+1944-06-26	7	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0054.jpg					52.83	173.19		29.88	45	45	44		
+1944-06-26	8	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0054.jpg					52.83	173.19		29.88	45	45	44		
+1944-06-26	9	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0054.jpg					52.83	173.19		29.88	45	45	44		
+1944-06-26	10	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0054.jpg					52.83	173.19		29.88	45	45	44		
+1944-06-26	11	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0054.jpg					52.83	173.19		29.88	47	47	46		
+1944-06-26	12	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0054.jpg		Noon: Attu			52.83	173.19		29.88	47	47	46		
+1944-06-26	13	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0054.jpg					52.83	173.19		29.87	47	47	46		1325: USS Gilmore
+1944-06-26	14	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0054.jpg					52.83	173.19		29.86	50	50	49		
+1944-06-26	15	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0054.jpg					52.83	173.19		29.85	50	50	48		
+1944-06-26	16	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0054.jpg					52.83	173.19		29.85	50	50	48		
+1944-06-26	17	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0054.jpg					52.83	173.19		29.84	49	49	48		
+1944-06-26	18	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0054.jpg					52.83	173.19		29.85	48	48	47		
+1944-06-26	19	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0054.jpg					52.83	173.19		29.85	47	47	46		
+1944-06-26	20	52.83	173.19			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0054.jpg		2005: Underway, cc var. 2031 cc 88. 2053 cc 90.			52.83	173.19		29.85	47	47	47		
+1944-06-26	21	52.83	173.49	88		11.1		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0054.jpg		2105: cc 86. 2106 Whistle buoy ats dist 1500 yds.			52.83	173.49	88	29.85	43	43	42	44	
+1944-06-26	22	52.95	173.76	51		13		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0054.jpg		2245: cc 95			52.95	173.76	51	29.84	43	43	43	44	
+1944-06-26	23	53.03	174.05	64		12.2		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0054.jpg					53.03	174.05	64	29.84	44	44	43	44	
+1944-06-26	24	53.07	174.38	75		12.7		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0054.jpg					53.07	174.38	75	29.84	43	43	42	44	
+1944-06-27	1	53.04	174.73	95		12.7		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0056.jpg	 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0057.jpg				53.04	174.73	95	29.86	43	43	41	44	
+1944-06-27	2	53.01	175.07	95		12.7		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0056.jpg					53.01	175.07	95	29.85	43	43	41	44	
+1944-06-27	3	52.98	175.41	95		12.7		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0056.jpg					52.98	175.41	95	29.85	43	43	42	44	
+1944-06-27	4	52.95	175.75	95		12.7		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0056.jpg					52.95	175.75	95	29.85	43	43	42	44	
+1944-06-27	5	52.92	176.09	95		12.7		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0056.jpg					52.92	176.09	95	29.85	43	43	42	44	
+1944-06-27	6	52.89	176.44	95		12.7		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0056.jpg					52.89	176.44	95	29.85	43	43	43	44	
+1944-06-27	7	52.86	176.78	95		12.7		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0056.jpg					52.86	176.78	95	29.86	43	43	42	44	
+1944-06-27	8	52.83	177.12	95		12.7		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0056.jpg					52.83	177.12	95	29.85	43	43	41	44	
+1944-06-27	9	52.82	177.45	95		12.7		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0056.jpg					52.82	177.45	95	29.87	43	43	41	44	
+1944-06-27	10	52.81	177.78	95		12.7		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0056.jpg					52.81	177.78	95	29.88	43	43	41	44	
+1944-06-27	11	52.8	178.12	95		12.7		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0056.jpg					52.8	178.12	95	29.89	43	42	42	44	
+1944-06-27	12	52.78	178.45	95		12.7		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0056.jpg					52.78	178.45	95	29.88	43	43	42	44	
+1944-06-27	13	52.76	178.79	95		12.7		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0056.jpg					52.76	178.79	95	29.88	43	43	42	44	
+1944-06-27	14	52.73	179.12	95		12.7		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0056.jpg					52.73	179.12	95	29.87	44	44	43	44	
+1944-06-27	15	52.71	179.45	95		12.7		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0056.jpg					52.71	179.45	95	29.86	44	44	43	44	
+1944-06-27	16	52.68	179.79	95		12.7		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0056.jpg					52.68	179.79	95	29.86	44	44	43	44	
+1944-06-27	17	52.66	-179.88	95		12.7		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0056.jpg					52.66	-179.88	95	29.86	44	44	44	44	
+1944-06-27	18	52.63	-179.55	95		12.7		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0056.jpg					52.63	-179.55	95	29.84	44	44	44	44	
+1944-06-27	19	52.61	-179.21	95		12.7		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0056.jpg					52.61	-179.21	95	29.83	44	44	44	44	
+1944-06-27	20	52.58	-178.88	95		12.5		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0056.jpg					52.58	-178.88	95	29.82	45	45	44	44	
+1944-06-27	21	52.58	-178.54	95		12		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0056.jpg					52.58	-178.54	95	29.81	45	45	44	44	
+1944-06-27	22	52.57	-178.2	95		12		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0056.jpg					52.57	-178.2	95	29.8	46	46	43	44	
+1944-06-27	23	52.56	-177.86	95		11.9		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0056.jpg					52.56	-177.86	95	29.8	45	45	44	44	
+1944-06-27	24	52.55	-177.53	95		11.7		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0056.jpg					52.55	-177.53	95	29.78	45	45	45	44	
+1944-06-28	1	52.54	-177.19	95		11.9		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0058.jpg	 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0059.jpg				52.54	-177.19	95	29.75	45	45	44	44	
+1944-06-28	2	52.53	-176.86	95		11.9		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0058.jpg					52.53	-176.86	95	29.75	45	45	44	44	
+1944-06-28	3	52.52	-176.52	95		11.9		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0058.jpg		0300: cc 180			52.52	-176.52	95	29.74	45	45	44	44	
+1944-06-28	4	52.33	-176.5	180		11.9		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0058.jpg					52.33	-176.5	180	29.71	45	45	44	44	
+1944-06-28	5	52.14	-176.49	180		11.9		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0058.jpg		0510: cc 190. 0537 cc 159.			52.14	-176.49	180	29.69	45	45	44	44	
+1944-06-28	6	51.96	-176.46	176		11.5		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0058.jpg		0610: cc var. 0639 anchored, brgs Zeto Pt 40o5'T, Palisades 375o5', Nashville 260o5'. Berth D-28.			51.96	-176.46	176	29.68	45	45	44	42	
+1944-06-28	7	51.88	-176.59	888		7.7		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0058.jpg					51.88	-176.59	888	29.68	45	45	45	42	
+1944-06-28	8	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0058.jpg					51.88	-176.59		29.67	49	49	48		
+1944-06-28	9	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0058.jpg					51.88	-176.59		29.68	48	48	47		
+1944-06-28	10	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0058.jpg					51.88	-176.59		29.69	48	48	47		
+1944-06-28	11	51.89	-176.43	90		10.2		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0058.jpg		Discharging ballast.			51.89	-176.43	90	29.68	49	49	48	42	
+1944-06-28	12	51.89	-176.31	90		8.7		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0058.jpg					51.89	-176.31	90	29.68	50	50	49	42	
+1944-06-28	13	51.9	-176.18	90		8.6		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0058.jpg					51.9	-176.18	90	29.68	50	50	49	42	
+1944-06-28	14	51.9	-176.38	270		8.7		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0058.jpg					51.9	-176.38	270	29.67	51	51	50	42	
+1944-06-28	15	51.88	-176.59	255		9.6		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0058.jpg					51.88	-176.59	255	29.67	52	52	50	42	
+1944-06-28	16	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0058.jpg					51.88	-176.59		29.67	50	50	49		
+1944-06-28	17	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0058.jpg					51.88	-176.59		29.67	52	52	51		
+1944-06-28	18	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0058.jpg					51.88	-176.59		29.67	51	51	50		
+1944-06-28	19	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0058.jpg					51.88	-176.59		29.67	50	50	49		
+1944-06-28	20	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0058.jpg					51.88	-176.59		29.67	50	50	49		
+1944-06-28	21	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0058.jpg					51.88	-176.59		29.66	50	50	49		
+1944-06-28	22	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0058.jpg					51.88	-176.59		29.66	49	49	48		
+1944-06-28	23	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0058.jpg					51.88	-176.59		29.66	47	47	46		
+1944-06-28	24	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0058.jpg					51.88	-176.59		29.66	47	47	47		
+1944-06-29	1	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0060.jpg	 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0061.jpg				51.88	-176.59		29.66	48	48	47		
+1944-06-29	2	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0060.jpg					51.88	-176.59		29.65	47	47	46		
+1944-06-29	3	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0060.jpg					51.88	-176.59		29.66	47	47	46		
+1944-06-29	4	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0060.jpg					51.88	-176.59		29.66	47	47	46		
+1944-06-29	5	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0060.jpg					51.88	-176.59		29.66	46	46	46		
+1944-06-29	6	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0060.jpg					51.88	-176.59		29.66	46	46	46		
+1944-06-29	7	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0060.jpg					51.88	-176.59		29.66	46	46	45		
+1944-06-29	8	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0060.jpg					51.88	-176.59		29.67	46	46	45		
+1944-06-29	9	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0060.jpg					51.88	-176.59		29.67	47	47	46		
+1944-06-29	10	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0060.jpg					51.88	-176.59		29.67	46	46	46		
+1944-06-29	11	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0060.jpg					51.88	-176.59		29.67	47	47	47		
+1944-06-29	12	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0060.jpg		Noon: Adak			51.88	-176.59		29.67	48	48	47		
+1944-06-29	13	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0060.jpg					51.88	-176.59		29.67	48	48	47		
+1944-06-29	14	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0060.jpg					51.88	-176.59		29.67	48	48	47		
+1944-06-29	15	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0060.jpg					51.88	-176.59		29.67	50	50	49		
+1944-06-29	16	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0060.jpg					51.88	-176.59		29.67	50	50	49		
+1944-06-29	17	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0060.jpg		1740: Underway for Dutch Harbor.			51.88	-176.59		29.67	50	50	49		1730: USS Daly, USCG Cyane.
+1944-06-29	18	51.88	-176.59			a		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0060.jpg					51.88	-176.59		29.67	49	49	48		
+1944-06-29	19	51.96	-176.38	43		8.7		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0060.jpg					51.96	-176.38	43	29.66	48	48	47	42	
+1944-06-29	20	52.11	-176.27	13		10.8		 https://s3.amazonaws.com/NARAprodstorage/lz/dc-metro/rg-024/594258/0024/cuyama-ao-3-1944-06/cuyama-ao-3-1944-06-0060.jpg					52.11	-176.27	13	29.66	45	45	45	42	

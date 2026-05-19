@@ -1,0 +1,5 @@
+oldweather-react-vis-app/node_modules
+oldweather-react-vis-app/dist
+oldweather-react-vis-app/.env
+.DS_Store
+.vite
