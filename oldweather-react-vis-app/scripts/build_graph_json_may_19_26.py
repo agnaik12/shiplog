@@ -98,19 +98,8 @@ def scale_size(count, min_count, max_count, min_size=8, max_size=30):
     return min_size + t * (max_size - min_size)
 
 
-def edge_width(count, max_count):
-    if count <= 0:
-        return 0.3
-
-    if max_count <= 1:
-        return 1.0
-
-    t = math.log10(count + 1) / math.log10(max_count + 1)
-    return 0.3 + t * 3.2
-
-
 def find_column(df, candidates):
-    columns_lower = {str(col).lower(): col for col in df.columns}
+    columns_lower = {col.lower(): col for col in df.columns}
 
     for candidate in candidates:
         if candidate.lower() in columns_lower:
@@ -182,7 +171,7 @@ def detect_year_column(df):
 def get_variable_columns(df):
     variable_columns = {}
 
-    lower_to_actual = {str(col).lower(): col for col in df.columns}
+    lower_to_actual = {col.lower(): col for col in df.columns}
 
     for variable_name, config in VARIABLE_CONFIG.items():
         for candidate in config["labels"]:
@@ -202,7 +191,7 @@ def get_variable_columns(df):
 def normalize_ship_name(value):
     text = str(value).strip()
 
-    if not text or text.lower() in {"nan", "none", "null", "<na>"}:
+    if not text or text.lower() in {"nan", "none", "null"}:
         return None
 
     return text.replace(" ", "_")
@@ -220,13 +209,11 @@ def has_observation(series):
         & (text != "nan")
         & (text != "none")
         & (text != "null")
-        & (text != "<na>")
     )
 
 
 def build_long_observations(df, ship_col, year_col, variable_columns):
-    required_columns = [ship_col, year_col] + list(variable_columns.values())
-    working = df[required_columns].copy()
+    working = df[[ship_col, year_col] + list(variable_columns.values())].copy()
 
     working["ship"] = working[ship_col].map(normalize_ship_name)
     working["year"] = pd.to_numeric(working[year_col], errors="coerce")
@@ -414,9 +401,7 @@ def build_edges_from_triples(triples):
         decade_variable[dv_key] = decade_variable.get(dv_key, 0) + int(
             triple["count"]
         )
-        variable_ship[vs_key] = variable_ship.get(vs_key, 0) + int(
-            triple["count"]
-        )
+        variable_ship[vs_key] = variable_ship.get(vs_key, 0) + int(triple["count"])
 
     all_counts = list(decade_variable.values()) + list(variable_ship.values())
     max_count = max(all_counts) if all_counts else 1
@@ -452,21 +437,15 @@ def build_edges_from_triples(triples):
     return edges
 
 
-def read_input_file(input_path):
-    suffix = input_path.suffix.lower()
+def edge_width(count, max_count):
+    if count <= 0:
+        return 0.3
 
-    if suffix == ".parquet":
-        import duckdb
+    if max_count <= 1:
+        return 1.0
 
-        query_path = input_path.as_posix().replace("'", "''")
-        return duckdb.sql(
-            f"SELECT * FROM read_parquet('{query_path}')"
-        ).df()
-
-    if suffix in {".csv", ".txt"}:
-        return pd.read_csv(input_path)
-
-    raise ValueError("Input must be .parquet or .csv")
+    t = math.log10(count + 1) / math.log10(max_count + 1)
+    return 0.3 + t * 3.2
 
 
 def main():
@@ -508,7 +487,12 @@ def main():
     if not input_path.exists():
         raise FileNotFoundError(f"Input file does not exist: {input_path}")
 
-    df = read_input_file(input_path)
+    if input_path.suffix.lower() == ".parquet":
+        df = pd.read_parquet(input_path)
+    elif input_path.suffix.lower() in {".csv", ".txt"}:
+        df = pd.read_csv(input_path)
+    else:
+        raise ValueError("Input must be .parquet or .csv")
 
     total_rows = len(df)
 
